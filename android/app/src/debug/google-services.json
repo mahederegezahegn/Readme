@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "800092099668",
+      "project_id": "maheder-eefc5",
+      "storage_bucket": "maheder-eefc5.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:800092099668:android:1617195ff6df388621c9c1",
+          "android_client_info": {
+            "package_name": "com.example.readme"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "800092099668-4n4s9p14nrjut1ur77482h2g0a36l230.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDcSxMZvwUbJ1qTkQMHIpnqATyTK0kUWEo"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "800092099668-4n4s9p14nrjut1ur77482h2g0a36l230.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

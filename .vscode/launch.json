@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\mainscreens\\onconstruction.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\mainscreens\\onconstruction.dart"
+        }
+    ]
+}
